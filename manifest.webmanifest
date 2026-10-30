@@ -1,0 +1,16 @@
+{
+  "name": "TrainingLedger",
+  "short_name": "Ledger",
+  "description": "Log your training, keep your streak, stay accountable.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121110",
+  "theme_color": "#121110",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
